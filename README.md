@@ -1,3 +1,0 @@
-Allfunds-compliance-tool-for-funds
-This Python-based tool automates the process of fetching, processing, and analyzing fund data from the Allfunds API using an ISIN identifier. It retrieves detailed information such as share class, overview, and regulatory data, processes it into a structured format, and applies filtering criteria to determine fund validity based on specific conditions. The results are displayed in an interactive GUI for further inspection. This tool can be used by fund distributors (banks, investment platforms, insurance companies, independent financial advisors) to determine if a fund's specificities align with their regulatory, operational and investment policies.
-
